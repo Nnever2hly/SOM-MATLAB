@@ -1,0 +1,1 @@
+Self Organization Map neural network for color segmentation with MATLAB
